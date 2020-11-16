@@ -10,3 +10,4 @@ code:
 require(devtools)
 install_github("BioSystemsUM/specmine.datasets")
 ```
+**Note**: Not submitted to Cran.
