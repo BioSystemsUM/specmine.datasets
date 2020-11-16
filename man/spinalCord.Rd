@@ -3,9 +3,7 @@
 \alias{spinalCord}
 \title{Brazilian Propolis from different Harvest Seasons and different Agroecological Regions}
 \format{An object of class \code{"list"}}
-\source{
-\href{http://www.metaboanalyst.ca/resources/data/lcms_netcdf.zip}{MetaboAnalyst}
-}
+
 \usage{
 spinalCord
 }
