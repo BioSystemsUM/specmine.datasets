@@ -1,16 +1,19 @@
 Package: specmine.datasets
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
-Encoding: UTF-8
+Type: Package
+Title: Data Sets for 'specmine'
+Version: 0.0.1
+Author: Miguel Rocha <mrocha@di.uminho.pt> [aut, cre],
+  Bruno Pereira <pereirinha_bp@hotmail.com> [aut]
+Maintainer: Bruno Pereira <pereirinha_bp@hotmail.com>
+Depends: R (>= 4.0.0)
+Imports: xcms
+NeedsCompilation: no
 LazyData: true
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+Description: Provides the data sets used to exemplify 'specmine'. The data sets were formerly distributed with 'specmine', however they exceed current CRAN policy for package size.
+Encoding: UTF-8
+License: GPL (>= 2)
+
+
+
+
+
