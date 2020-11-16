@@ -4,7 +4,7 @@ Title: Data Sets for 'specmine'
 Version: 0.0.1
 Author: Miguel Rocha <mrocha@di.uminho.pt> [aut, cre],
   Bruno Pereira <pereirinha_bp@hotmail.com> [aut]
-Maintainer: Bruno Pereira <pereirinha_bp@hotmail.com>
+Maintainer: Miguel Rocha <mrocha@di.uminho.pt>
 Depends: R (>= 4.0.0)
 Imports: xcms
 NeedsCompilation: no
