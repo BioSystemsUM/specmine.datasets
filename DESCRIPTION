@@ -10,16 +10,12 @@ Author: Christopher Costa <chrisbcl@hotmail.com> [aut],
 	C. Beleites [cph],
 	Jie Hao [cph],
 	Bruno Pereira <pereirinha_bp@hotmail.com> [aut]
-Maintainer: Miguel Rocha <mrocha@di.uminho.pt>
+Maintainer: Bruno Pereira <pereirinha_bp@hotmail.com>
 Depends: R (>= 4.0.0)
 Imports: xcms
+RoxygenNote: 7.1.1
 NeedsCompilation: no
 LazyData: true
 Description: Provides the data sets used to exemplify 'specmine'. The data sets were formerly distributed with 'specmine', however they exceed current CRAN policy for package size.
 Encoding: UTF-8
 License: GPL (>= 2)
-
-
-
-
-
