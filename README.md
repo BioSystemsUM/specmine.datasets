@@ -3,11 +3,29 @@ specmine.datasets
 
 Datasets for the R package *specmine*.
 
-In order to install this package from GitHub you can run the following
-code:
+## Installation
+
+You can install the released version of *specmine* from
+[CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-require(devtools)
-install_github("BioSystemsUM/specmine.datasets")
+install.packages("specmine.datasets")
 ```
-**Note**: Not submitted to Cran.
+
+And the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("BioSystemsUM/specmine.datasets")
+```
+## Example
+
+This is a basic example which shows you how to load *specmine.datasets* and how to access an 
+available dataset:
+
+``` r
+library(specmine.datasets)
+
+data(cachexia)
+```
+
