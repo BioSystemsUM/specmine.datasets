@@ -5,7 +5,7 @@ Datasets for the R package *specmine*.
 
 ## Installation
 
-You can install the released version of *specmine* from
+You can install the released version of *specmine.datasets* from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
@@ -24,8 +24,8 @@ This is a basic example which shows you how to load *specmine.datasets* and how 
 available dataset:
 
 ``` r
-library(specmine.datasets)
+library("specmine.datasets")
 
-data(cachexia)
+data("cachexia")
 ```
 
