@@ -20,8 +20,7 @@ devtools::install_github("BioSystemsUM/specmine.datasets")
 ```
 ## Example
 
-This is a basic example which shows you how to load *specmine.datasets* and how to access an 
-available dataset:
+This is a basic example which shows you how to load *specmine.datasets* and an example dataset to your environment:
 
 ``` r
 library("specmine.datasets")
