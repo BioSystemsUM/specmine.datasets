@@ -4,9 +4,7 @@
 # specmine.datasets
 
 <!-- badges: start -->
-
-\[1\]
-“[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)”
+[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=specmine.datasets)
 <!-- badges: end -->
 
 The goal of *specmine.datasets* is to provide datasets for the R package
