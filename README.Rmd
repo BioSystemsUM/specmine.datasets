@@ -22,7 +22,7 @@ library("badger")
 ```{r, echo = FALSE, results = 'asis'}
 cat(	
   badge_cran_release("specmine.datasets", "green"),
-  badge_github_actions("rossellhayes/ipa")
+  badge_github_actions("BioSystemsUM/specmine.datasets")
 )
 ```
 <!-- badges: end -->
