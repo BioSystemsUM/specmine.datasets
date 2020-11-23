@@ -4,7 +4,10 @@
 # specmine.datasets
 
 <!-- badges: start -->
+
 [![](https://www.r-pkg.org/badges/version/specmine.datasets?color=green)](https://cran.r-project.org/package=specmine.datasets)
+[![R build
+status](https://github.com/rosselhayes/ipa/workflows/R-CMD-check/badge.svg)](https://github.com/rosselhayes/ipa/actions)
 <!-- badges: end -->
 
 The goal of *specmine.datasets* is to provide datasets for the R package

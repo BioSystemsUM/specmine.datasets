@@ -19,8 +19,11 @@ library("badger")
 # specmine.datasets
 
 <!-- badges: start -->
-```{r, echo = FALSE, results='asis'}
-	badge_cran_release("specmine.datasets", "green")
+```{r, echo = FALSE, results = 'asis'}
+cat(	
+  badge_cran_release("specmine.datasets", "green"),
+  badge_github_actions("rosselhayes/ipa")
+)
 ```
 <!-- badges: end -->
 
