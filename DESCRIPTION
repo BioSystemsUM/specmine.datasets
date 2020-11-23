@@ -10,7 +10,7 @@ Author: Christopher Costa <chrisbcl@hotmail.com> [aut],
 	C. Beleites [cph],
 	Jie Hao [cph],
 	Bruno Pereira <pereirinha_bp@hotmail.com> [aut]
-Maintainer: Bruno Pereira <pereirinha_bp@hotmail.com>
+Maintainer: Miguel Rocha <mrocha@di.uminho.pt>
 Depends: R (>= 4.0.0)
 Imports: xcms
 RoxygenNote: 7.1.1
