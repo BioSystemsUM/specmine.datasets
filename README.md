@@ -1,7 +1,14 @@
 specmine.datasets
 ================
+```{r echo=FALSE, results="hide", message=FALSE}
+library("badger")
+```
 
-`r badge_cran("badger", "green")`
+```{r, echo = FALSE, results='asis'}
+cat(
+	badge_cran_release("badger", "green"),
+)
+```
 
 Datasets for the R package *specmine*.
 
