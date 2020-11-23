@@ -1,6 +1,8 @@
 specmine.datasets
 ================
 
+`r badge_cran("badger", "green")`
+
 Datasets for the R package *specmine*.
 
 ## Installation
