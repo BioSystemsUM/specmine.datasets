@@ -1,0 +1,4 @@
+- path: BioSystemsUM/specmine.datasets/data/tomato-2d
+  name: tomato-2d
+  description: A 2D specmine dataset from a 2D NMR metabolomics experiment
+  type: default

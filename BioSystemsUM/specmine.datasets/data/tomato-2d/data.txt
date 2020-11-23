@@ -1,0 +1,3 @@
+path: https://github.com/BioSystemsUM/specmine.datasets/releases/download/tomato-2d-4fabd95/data.rds
+description: A 2D specmine dataset from a 2D NMR metabolomics experiment
+type: default
