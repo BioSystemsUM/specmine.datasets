@@ -21,8 +21,7 @@ library("badger")
 <!-- badges: start -->
 ```{r, echo = FALSE, results = 'asis'}
 cat(	
-  badge_cran_release("specmine.datasets", "green"),
-  badge_github_actions("BioSystemsUM/specmine.datasets")
+  badge_cran_release("specmine.datasets", "green")
 )
 ```
 <!-- badges: end -->

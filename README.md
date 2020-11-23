@@ -6,8 +6,6 @@
 <!-- badges: start -->
 
 [![](https://www.r-pkg.org/badges/version/specmine.datasets?color=green)](https://cran.r-project.org/package=specmine.datasets)
-[![R build
-status](https://github.com/BioSystemsUM/specmine.datasets/workflows/R-CMD-check/badge.svg)](https://github.com/BioSystemsUM/specmine.datasets/actions)
 <!-- badges: end -->
 
 The goal of *specmine.datasets* is to provide datasets for the R package
