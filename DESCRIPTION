@@ -19,3 +19,5 @@ LazyData: true
 Description: Provides the data sets used to exemplify 'specmine'. The data sets were formerly distributed with 'specmine', however they exceed current CRAN policy for package size.
 Encoding: UTF-8
 License: GPL (>= 2)
+URL: https://github.com/BioSystemsUM/specmine.datasets
+BugReports: https://github.com/BioSystemsUM/specmine.datasets/issues
