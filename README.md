@@ -1,16 +1,16 @@
-specmine.datasets
-================
-```{r echo=FALSE, results="hide", message=FALSE}
-library("badger")
-```
 
-```{r, echo = FALSE, results='asis'}
-cat(
-	badge_cran_release("badger", "green"),
-)
-```
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-Datasets for the R package *specmine*.
+# specmine.datasets
+
+<!-- badges: start -->
+
+\[1\]
+“[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)”
+<!-- badges: end -->
+
+The goal of *specmine.datasets* is to provide datasets for the R package
+*specmine*.
 
 ## Installation
 
@@ -27,13 +27,14 @@ And the development version from [GitHub](https://github.com/) with:
 # install.packages("devtools")
 devtools::install_github("BioSystemsUM/specmine.datasets")
 ```
+
 ## Example
 
-This is a basic example which shows you how to load *specmine.datasets* and an example dataset to your environment:
+This is a basic example which shows you how to load *specmine.datasets*
+and an example dataset to your environment:
 
 ``` r
 library("specmine.datasets")
 
 data("cachexia")
 ```
-
