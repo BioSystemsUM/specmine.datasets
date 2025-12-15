@@ -3,7 +3,7 @@
 \docType{data}
 \name{spinalCord}
 \alias{spinalCord}
-\title{Brazilian Propolis from different Harvest Seasons and different Agroecological Regions}
+\title{Mice Spinal Cord data - LC-MS samples - from MetaboAnalyst}
 \format{
 An object of class \code{"list"}
 }
